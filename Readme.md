@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, I'm Muhammed Daştan</h1>
+<h1 align="center">Merhaba 👋, Ben Muhammed Daştan</h1>
 <h3 align="center">Mobil Uygulama Geliştiricisiyim. Flutter ile mobil uygulamalar geliştiriyorum. Şu ana kadar Flutter ile bir "E-Ticaret" projem bulunmaktadır. Şu anda Flutter ile bir "Stok Takip Cari Hesaplama" uygulaması geliştirmekteyim. Projem bittiğinde GitHub a yükleyeceğim.</h3>
 <h5 align="center">Benimle mail adresim veya sosyal medya hesaplarımdan biriyle iletişime geçerek fikirlerinizi ve sorularınızı sorabilirsiniz.  </h5>
 
