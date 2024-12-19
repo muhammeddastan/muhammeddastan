@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Daştan</h1>
-<h3 align="center">I am a Mobile Application Developer. I have been developing applications with Flutter for 8 months. So far I have developed 2 applications with Flutter. (E-Commerce Mobile Application & Firebase Database - Inventory Mobile Application & SqfLite Database) I leave the link of my projects below. I will start a new project. Please let me know your ideas. See you soon. 👋🏻</h3>
+<h3 align="center">I am a Mobile Application Developer. I have been developing applications with Flutter for 1.5 years. So far I have developed 2 applications with Flutter. (E-Commerce Mobile Application & Firebase Database - Inventory Mobile Application & SqfLite Database) I leave the link of my projects below. I will start a new project. Please let me know your ideas. See you soon. 👋🏻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammeddastan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammeddastan" /> </p>
 
