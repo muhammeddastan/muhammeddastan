@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammeddastan?tab=repositories](https://github.com/muhammeddastan?tab=repositories)
 
-- 📫 How to reach me **muhammeddastan6926@icloud.com**
+- 📫 How to reach me **muhammeddastan6926@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
